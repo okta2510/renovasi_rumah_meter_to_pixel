@@ -111,6 +111,14 @@ export default function Home() {
           </div>
         </Card>
       </div>
+      <footer className="mt-[100px] text-center text-sm text-muted-foreground">
+        <p>
+          © {new Date().getFullYear()} <a href="https://oktaviardi.com" className="text-primary hover:underline">oktaviardi.com</a>
+        </p>
+        <p>
+          Check out <a href="https://github.com/okta2510" className="text-primary hover:underline">my GitHub</a>
+        </p>
+      </footer>
     </div>
   );
 }
