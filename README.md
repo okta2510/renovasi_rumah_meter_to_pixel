@@ -66,7 +66,7 @@ Result: `111.18 pixels`
 
 Below is a sample screenshot of the app:
 
-![Sample Screenshot](./denah.png)
+![Sample Screenshot](./scr.png)
 
 ---
 
